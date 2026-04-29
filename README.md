@@ -28,13 +28,10 @@ Run `SmartTrafficSystem.java`
 
 ### Web App
 
-Run `SmartTrafficWebApplication.java`
-Open: http://localhost:8080
 
 ## 🗄️ Database
 
 Create database `traffic_db` and table `violations`
 
 ## 👨‍💻 Author
-
-Priyansh Golwalkar
+Lavya Agrawal
